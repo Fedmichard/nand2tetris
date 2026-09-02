@@ -1,1 +1,29 @@
-This doc will primarily be for note taking and progress tracking when working on chapter 1.
+BC:
+  To a computer an program is just a sequence of plain text written in a txt file, it has no way of actually processing any of that information.
+  To the computer this is a complete mystery of strange symbols because the computer only reads in binary code
+  To execute this, you would need parse through the file somehow and then 
+
+09/01/2026:
+  Today we covered some basics of boolean knowledge.
+  All computers are based on a set of chips that process binary language
+  Logically all the building blocks are the same elementary logic gates
+  The physical implementations of these logic gates varies but, the logical implementations are the same everywhere.
+  
+  The gates that we focused on are:
+    NAND
+    AND
+    OR
+    XOR
+  
+  Boolean Algebra:
+    Manipulates two state binaries
+  Function:
+    Is a set of instructions that outputs a result and may take inputs
+  Boolean Function:
+    Is a function that takes binary inputs to create some bianry output
+    ** KEY FOR COMPUTER HARDWARE **
+
+AND, OR, NOT
+ X    +   !
+
+ These are OPERATORS used to create binary functions
