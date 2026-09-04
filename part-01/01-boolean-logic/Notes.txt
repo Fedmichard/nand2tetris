@@ -27,3 +27,5 @@ AND, OR, NOT
  X    +   !
 
  These are OPERATORS used to create binary functions
+ 
+ TMRW We Ball
