@@ -1,7 +1,7 @@
 BC:
   To a computer an program is just a sequence of plain text written in a txt file, it has no way of actually processing any of that information.
   To the computer this is a complete mystery of strange symbols because the computer only reads in binary code
-  To execute this, you would need parse through the file somehow and then 
+  To execute this, you would need parse through the file somehow and then convert the processed data into the appropriate machine code while maintaining it's semantics
 
 09/01/2026:
   Today we covered some basics of boolean knowledge.
