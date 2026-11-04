@@ -1,11 +1,11 @@
 /**
- * And gate:
- * if (a and b) out = 1, else out = 0 
+ * Nand gate:
+ * if (a and b) out = 0, else out = 1 
  */
-CHIP And {
+CHIP Nand {
     IN a, b;
     OUT out;
 
     PARTS:
-    
+    BUILTIN Nand;
 }
